@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T19:53:06 CST" name="com.locallypanda.testcases.homepageTest" finished-at="2022-11-09T19:53:19 CST" duration-ms="12764">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T19:53:06 CST" name="Command line test" finished-at="2022-11-09T19:53:19 CST" duration-ms="12764">
+      <class name="com.locallypanda.testcases.homepageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.locallypanda.testcases.homepageTest@23a5fd2]" started-at="2022-11-09T19:53:06 CST" name="setUp" finished-at="2022-11-09T19:53:18 CST" duration-ms="11730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testcheckTitle()[pri:0, instance:com.locallypanda.testcases.homepageTest@23a5fd2]" started-at="2022-11-09T19:53:18 CST" name="testcheckTitle" finished-at="2022-11-09T19:53:18 CST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcheckTitle -->
+        <test-method signature="testEmailField()[pri:1, instance:com.locallypanda.testcases.homepageTest@23a5fd2]" started-at="2022-11-09T19:53:18 CST" name="testEmailField" finished-at="2022-11-09T19:53:18 CST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailField -->
+        <test-method signature="testPasswordField()[pri:2, instance:com.locallypanda.testcases.homepageTest@23a5fd2]" started-at="2022-11-09T19:53:18 CST" name="testPasswordField" finished-at="2022-11-09T19:53:18 CST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordField -->
+        <test-method signature="testSignButton()[pri:3, instance:com.locallypanda.testcases.homepageTest@23a5fd2]" started-at="2022-11-09T19:53:18 CST" name="testSignButton" finished-at="2022-11-09T19:53:19 CST" duration-ms="867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignButton -->
+      </class> <!-- com.locallypanda.testcases.homepageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.locallypanda.testcases.homepageTest -->
+</testng-results>
