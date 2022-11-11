@@ -1,0 +1,13 @@
+<suite name ="Travel Flight Test">
+   <test name ="login page test">
+    <classes>
+       <class name= "com.locallypanda.testcases.homepageTest" >
+       </class>
+
+  </classes>
+
+</test>
+
+
+
+</suite>
